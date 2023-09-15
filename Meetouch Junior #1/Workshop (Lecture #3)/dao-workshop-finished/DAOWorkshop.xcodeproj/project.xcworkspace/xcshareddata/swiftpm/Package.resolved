@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "dao",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Incetro/DAO.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "55715953dae579443c2e7639f1a0868c3e4411e4"
+      }
+    },
+    {
+      "identity" : "monreau",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Incetro/Monreau.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "0e0eb77d1cfaf808659b4be9df0e90577916e14e"
+      }
+    },
+    {
+      "identity" : "realm-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-core.git",
+      "state" : {
+        "revision" : "c04f5e401a1ec682e6b08b1ee157e19a0f834a5f",
+        "version" : "13.17.1"
+      }
+    },
+    {
+      "identity" : "realm-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/realm/realm-swift.git",
+      "state" : {
+        "revision" : "330a239712af77a3b0926b9ffa9582302a0b9923",
+        "version" : "10.42.1"
+      }
+    }
+  ],
+  "version" : 2
+}
