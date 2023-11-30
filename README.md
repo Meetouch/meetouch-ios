@@ -126,5 +126,5 @@
 [meetouch-ios-github]: https://github.com/Meetouch/meetouch-ios
 [meetouch-android-github]: https://github.com/Meetouch/meetouch-android
 
-[meetup-schedule]: https://img.shields.io/static/v1?label=&message=Следующий+митап+–+25+ноября+2023&color=005CFF&style=for-the-badge
+[meetup-schedule]: https://img.shields.io/static/v1?label=&message=Следующий+митап+–+15+февраля+2024&color=005CFF&style=for-the-badge
 [notion-link]: https://meetouch.click/szg
